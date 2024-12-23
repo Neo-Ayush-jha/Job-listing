@@ -160,14 +160,16 @@ Ensure you have the following installed:
 
 ![Job Listing Screenshot](image/2.png)
 
-### 3. Job Listing Page
+### 3. Single Job Listing Page
 
 ![Single Job Listing Page Screenshot](image/3.png)
 
 ### 3. API Testing
 
 ![API Testing Screenshot](image/6.png)
+
 ![API Testing Screenshot](image/4.png)
+
 ![API Testing Screenshot](image/5.png)
 
 _(Ensure to replace the placeholders above with the actual paths to your screenshots.)_
@@ -184,4 +186,4 @@ Feel free to fork this repository and submit pull requests for any improvements 
 
 For any queries or issues, feel free to reach out:
 
-- Email: ayush91176@gmail.com
+- Email: ayush9334kumar@gmail.com
