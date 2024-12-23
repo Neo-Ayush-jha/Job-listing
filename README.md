@@ -172,7 +172,6 @@ Ensure you have the following installed:
 
 ![API Testing Screenshot](image/5.png)
 
-_(Ensure to replace the placeholders above with the actual paths to your screenshots.)_
 
 ---
 
